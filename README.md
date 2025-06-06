@@ -13,3 +13,5 @@ rode o código:
 para o finalizar o docker:
 
  docker-compose down
+
+O projeto deve abrir na porta http://localhost:8080/
