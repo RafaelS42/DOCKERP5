@@ -1,0 +1,2 @@
+O planejamento de projeto ocorreu em uma sprint, utilizando o Kanban para o acompanhamento das tarefas a serem feitas e concluidas
+Foi utilizado DBeaver para o acompanhamento do bando de dados, houve dificuldade com a comunicação entre o bd e backend em containers separados, mas foi resolvido usando um função que espera o banco de dados carregar antes do backend fazer modificações no bd
