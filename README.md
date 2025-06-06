@@ -4,7 +4,7 @@ Primeiro abra o cmd e clone o repositório:
 
 mude o diretório para o do repositório:
 
- cd docker-p5
+ cd DOCKERP5
 
 rode o código:
 
